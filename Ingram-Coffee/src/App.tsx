@@ -40,21 +40,21 @@ function App() {
       </header>
 
       <div className='tester'>
-      <div class="main__wrapper">
+      <div className="main__wrapper">
       <main>
         <h1>The Codepen Times</h1>
         <aside>
           <div>
-            <div class="issue">Issue #1</div>
-            <div class="date">Tuesday, 26 May, 2020</div>
-            <div class="edition">Two memes Edition</div>
+            <div className="issue">Issue #1</div>
+            <div className="date">Tuesday, 26 May, 2020</div>
+            <div className="edition">Two memes Edition</div>
           </div>
         </aside>
-        <h2 class="title--large main-title">
+        <h2 className="title--large main-title">
           Woman spends too much time on Codepens despite advice; no plans to
           stop
         </h2>
-        <div class="main-text multi-column">
+        <div className="main-text multi-column">
           <p>
             Sometimes, Internet users land themselves in an uncommon situation
             where an app or website can be used for both work and personal
