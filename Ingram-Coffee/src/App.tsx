@@ -336,8 +336,7 @@ function App() {
       </main>
     </div>
   </div>
-
-      </div>
+  
     </div>
   )
 }
