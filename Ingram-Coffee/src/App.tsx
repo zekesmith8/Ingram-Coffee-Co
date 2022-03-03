@@ -184,7 +184,7 @@ function App() {
         ><a
           className="social"
           href="https://codepen.io/oliviale/full/QWjjrZX"
-          tagrget="_blank"
+          target="_blank"
           ><img
             className="social__image"
             src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-social.gif"
