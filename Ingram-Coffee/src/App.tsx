@@ -10,7 +10,7 @@ function App() {
       <div className='tester'>
       <div className="main__wrapper">
       <main>
-        <h1>The Codepen Times</h1>
+        <h1>Ingram Coffee Co</h1>
         <aside>
           <div>
             <div className="issue">Issue #1</div>
