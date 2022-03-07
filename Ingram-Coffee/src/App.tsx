@@ -15,7 +15,7 @@ function App() {
           <div>
             <div className="issue">Issue #1</div>
             <div className="date">Monday, 7 Mar, 2022</div>
-            <div className="edition">Two memes Edition</div>
+            <div className="edition">The Roast with the Most</div>
           </div>
         </aside>
         <h2 className="title--large main-title">
