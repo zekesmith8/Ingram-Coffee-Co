@@ -14,7 +14,7 @@ function App() {
         <aside>
           <div>
             <div className="issue">Issue #1</div>
-            <div className="date">Tuesday, 26 May, 2020</div>
+            <div className="date">Monday, 7 Mar, 2022</div>
             <div className="edition">Two memes Edition</div>
           </div>
         </aside>
