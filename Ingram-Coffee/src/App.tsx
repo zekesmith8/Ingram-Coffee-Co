@@ -29,6 +29,7 @@ function App() {
             situations. Well, a young front-end designer was spending up to 13
             hours on the site, Codepen for work and her hobby, which
             unfortunately, is also coding.
+            Implimenting research of coffee within the project
           </p>
           <p>
             The designer, whose work includes a <em>To-Do Terrarium</em>,
