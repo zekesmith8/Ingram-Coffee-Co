@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import logo from './logo.svg'
 import './App.scss'
 
 function App() {
@@ -19,31 +18,17 @@ function App() {
           </div>
         </aside>
         <h2 className="title--large main-title">
-          Woman spends too much time on Codepens despite advice; no plans to
-          stop
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequatur vitae quod ut error libero sint cumque quo expedita maxime! Est, itaque cumque quae expedita fugit reprehenderit iste nam nihil.
         </h2>
         <div className="main-text multi-column">
           <p>
-            Sometimes, Internet users land themselves in an uncommon situation
-            where an app or website can be used for both work and personal
-            situations. Well, a young front-end designer was spending up to 13
-            hours on the site, Codepen for work and her hobby, which
-            unfortunately, is also coding.
-            Implimenting research of coffee within the project
+           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam beatae incidunt quam eum eos, reiciendis minus pariatur ullam enim magnam, minima debitis voluptatum quidem, dignissimos dolorum omnis ea adipisci quia?
           </p>
           <p>
-            The designer, whose work includes a <em>To-Do Terrarium</em>,
-            clarified, "Well, I didn't <em> have </em>to use it for work but it
-            was already part of my workflow. It just made sense as it was more
-            efficient." The biggest issue, she said, is that she would hop on
-            Codepen for work, but would get distracted by pens made by others in
-            the community for unexpectedly long periods of time, which then
-            causes her to spend even more time on the site.
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim fugit dicta eveniet quae voluptatum ipsum hic ducimus saepe sint, consequatur magni accusantium eaque rem maxime repellendus eos, inventore obcaecati fuga.
           </p>
           <p>
-            "I mean, that's terrible right?" she asked. Codepen, which brands
-            itself as the best place to build, test, and discover front-end
-            code, has declined to comment at this time.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque animi voluptatem officiis debitis exercitationem. Ipsum est magni odit velit, maxime ipsa numquam ad error deleniti nisi sunt illum, nostrum magnam?
           </p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
@@ -51,7 +36,7 @@ function App() {
         </div>
         <a
           className="terrarium"
-          href="https://codepen.io/oliviale/full/oNXJgEM"
+          href=""
           target="_blank"
         >
           <figure>
@@ -64,7 +49,7 @@ function App() {
           </figure></a
         ><a
           className="item-with-image plan span--2 long--2"
-          href="https://codepen.io/oliviale/full/moLrBq"
+          href=""
           target="_blank"
           ><img
             src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-floorplan.jpg"
@@ -72,18 +57,12 @@ function App() {
           <h4>Can you get inspired to make your own floor plans?</h4>
           <div className="multi-column">
             <p>
-              Making a floor Plan with CSS Grid? Talk about using the wrong tool
-              for the job. But I guess this is what happens when someone isn't
-              happy with any of the floor plans found on Pinterest; she'll start
-              making her own for the eventual home that she will never own.
-              Nevertheless, there's a home office with a large window to look
-              out of pensively during rainy days and a ton of "white space" for
-              the cats to run around.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dignissimos praesentium voluptatum illo? Laudantium amet soluta, recusandae quisquam excepturi consequatur possimus rem obcaecati facere culpa quidem, consectetur beatae et dicta.
             </p>
           </div></a
         ><a
           className="hogwarts"
-          href="https://codepen.io/oliviale/full/MZZYyO"
+          href=""
           target="_blank"
         >
           <div className="hogwarts__title">50% Off Hogwarts Express tickets</div>
@@ -94,7 +73,7 @@ function App() {
             /></div></a
         ><a
           className="item-with-image pasta with-border"
-          href="https://codepen.io/oliviale/full/zYvxXWw"
+          href=""
           target="_blank"
         >
           <h4>A pasta menu</h4>
@@ -105,7 +84,7 @@ function App() {
           </p></a
         ><a
           className="item-with-image magazine with-border"
-          href="https://codepen.io/oliviale/full/GRKQoKM"
+          href=""
           target="_blank"
         >
           <h4>Marvel at a magazine</h4>
@@ -116,7 +95,7 @@ function App() {
           </p></a
         ><a
           className="item-with-image style"
-          href="https://codepen.io/collection/XJyNPm"
+          href=""
           target="_blank"
         >
           <h4>Let's adopt, don't shop.</h4>
@@ -130,7 +109,7 @@ function App() {
           </p></a
         ><a
           className="item-with-image toggles"
-          href="https://codepen.io/oliviale/full/xxboXzo"
+          href=""
           target="_blank"
           ><img
             src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-toggle.gif"
@@ -144,7 +123,7 @@ function App() {
           </p></a
         ><a
           className="menu"
-          href="https://codepen.io/oliviale/full/LYYrKMV"
+          href=""
           target="_blank"
         >
           <figure>
@@ -155,7 +134,7 @@ function App() {
           </figure></a
         ><a
           className="social"
-          href="https://codepen.io/oliviale/full/QWjjrZX"
+          href=""
           target="_blank"
           ><img
             className="social__image"
@@ -163,9 +142,7 @@ function App() {
           />
           <div className="social__subtitle">World News</div>
           <div className="social__content">
-            Looks like Covid-19 is gonna be around for a while so here is
-            another friendly reminder to practice social distancing. Oh, and
-            wear a mask!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita veritatis ea quibusdam beatae quasi sequi, maxime optio sed enim aperiam? Quod labore fugiat blanditiis illo earum quae nam, reprehenderit necessitatibus.
           </div></a
         >
         <div className="item-with-image cssgrid-collection">
@@ -184,10 +161,7 @@ function App() {
             </h4>
             <div className="multi-column-3">
               <p>
-                Get your fill of more CSS Grid items in this collection. There
-                are a total of 32 pens to date... well, 33, if you count this
-                one too. What can you expect in this collection? The hidden
-                gems, in my totally unbiased opinion, are
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas natus doloribus commodi dolores, voluptatibus, earum laborum at enim vel atque quisquam, esse aliquid veritatis! Voluptates magni dolorem inventore molestiae saepe.
                 <a
                   href="https://codepen.io/oliviale/full/wbyVWr"
                   target="_blank"
